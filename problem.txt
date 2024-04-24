@@ -1,0 +1,25 @@
+Problem: Online Food Ordering System
+
+You are tasked with developing an online food ordering system. The system should allow customers to browse restaurants, view menus, place orders, and track delivery. Design a system that incorporates the following features:
+
+1. Restaurant Management:
+    1. Each restaurant should have a name, cuisine type, and a menu consisting of various food items.
+    2. Restaurants should be able to add, update, and remove items from their menu.
+
+2. Menu Items:
+    1. Menu items should include dishes and drinks, each with a name and price.
+    2. Dishes may have a list of ingredients, while drinks may have a size (small, medium, large).
+
+3. Customer Interaction:
+    1. Customers should be able to search for restaurants by name or cuisine type.
+    2. Upon selecting a restaurant, customers should be able to view its menu and place orders.
+    3. Customers should have a profile containing their name, address, and order history.
+
+4. Order Management:
+    1. Orders should contain information about the customer, items ordered, total price, and delivery status.
+    2. Customers should be able to track the status of their orders (e.g., pending, preparing, on the way, delivered).
+    3. Restaurants should be notified of new orders and be able to update order statuses.
+
+5. Delivery:
+    1. Implement different delivery methods such as standard delivery, express delivery, etc.
+    2. Delivery status should be updated in real-time, and customers should be able to track their orders accordingly.
